@@ -42,7 +42,7 @@ yesBtn.addEventListener("click", () => {
     title.textContent = "WIIIIIIII!";
 
     //catImg.src = "cat_dance.gif";
-    catImg.src = "cutelitcat.gif";
+    catImg.src = "cutelilcat.gif";
 
 
     document.querySelector(".letter-window").classList.add("final");
